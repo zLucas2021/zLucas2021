@@ -17,7 +17,7 @@ Me encanta crear soluciones tecnológicas innovadoras.He participado en proyecto
 <span> Actualemente me encuentro en </span>
 <br>
 <p align="center" >
-<a href="https://cottonsp.com.ar">
-<img  src="https://cottonsp.com.ar/static/img/hero-banner.jpg" alt="CottonSp" height="56px" width="56px"></a>
+<a href="https://www.andresparra.com.ar/">
+Andres Parra y CIA</a>
 </p>
 <h3>Puedes Ver algunos de mis proyectos aqui abajo :arrow_down: </h5>
